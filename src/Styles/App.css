@@ -3,6 +3,19 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgb(219, 192, 157);
+  border-radius: 6px;
+}
+
+
+h1 {
+  color: rgb(4, 99, 122);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+label {
+  color: rgb(70, 128, 113);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .logo {
@@ -38,5 +51,5 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #bebbbb;
 }
